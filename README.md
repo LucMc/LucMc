@@ -7,7 +7,7 @@ A lot of my personal projects (e.g. automated emails and sms projects) include p
 
  
   
-➡️LinkedIn: https://www.linkedin.com/in/lucmcc/
+🟦LinkedIn: https://www.linkedin.com/in/lucmcc/
 
 🎓Scholar: https://scholar.google.com/citations?authuser=1&user=4bs1FyUAAAAJ
 
