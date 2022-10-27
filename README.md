@@ -1,4 +1,4 @@
-# Luc McCutchoeon
+# Luc McCutcheon
 
 Phd student studying Reinforcement Learning for time delayed teleoperated robotic systems,
 if you're interested in my research and would like to collaberate send me a message.
